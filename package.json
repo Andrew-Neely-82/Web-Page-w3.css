@@ -1,7 +1,7 @@
 {
   "name": "generic-business-page",
   "version": "0.1.0",
-  "homepage": "https://<github-username>.github.io/<repo-name>",
+  "homepage": "https://Andrew-Neely-82.github.io/Web-Page-w3.css",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
